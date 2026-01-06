@@ -1,3 +1,0 @@
-Batch=4
-Epochs=2
-LR=0.0001

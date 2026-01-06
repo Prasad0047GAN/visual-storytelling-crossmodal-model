@@ -1,0 +1,14 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and outputs
+data/
+results/
+
+# OS junk
+.DS_Store
+Thumbs.db
